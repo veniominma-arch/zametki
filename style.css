@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; }
+body { margin: 0; font: 17px/1.6 -apple-system, system-ui, sans-serif; }
+main { max-width: 640px; margin: 0 auto; padding: 48px 16px; }
+h1 { font-size: 32px; margin: 0 0 16px; }
+h2 { font-size: 20px; margin: 32px 0 8px; }
+code { font-size: 0.9em; }
